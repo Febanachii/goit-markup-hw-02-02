@@ -1,27 +1,18 @@
-body {
-    font-family: 'Raleway', sans-serif;
-        font-family: 'Roboto', sans-serif;
+body{
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 
-header{
-    position: absolute;
-        width: 1440px;
-        height: 72px;
-        left: 0px;
-        top: 0px;
-}
-a{
-    text-decoration: none;
+header{  text-decoration: none;
 }
 
 ul,
-ol,li {
+ol,li{
     list-style-type: none;
 }
 
 .style-web{
-    width: 44px;
-        height: 21px;
+  
     
         font-family: 'Raleway';
         font-style: normal;
@@ -42,9 +33,6 @@ ol,li {
 }
 
 .style-studio{
-    width: 71px;
-        height: 21px;
-    
         font-family: 'Raleway';
         font-style: normal;
         font-weight: 800;
@@ -69,11 +57,7 @@ display: flex;
     align-items: center;
     padding: 0px;
 
-    position: absolute;
-    width: 115px;
-    height: 24px;
-    left: 156px;
-    top: 24px;
+  
 }
 
 .ul-S-P-C{
@@ -82,21 +66,10 @@ display: flex;
         align-items: flex-start;
         padding: 0px;
         gap: 40px;
-    
-        position: absolute;
-        width: 261px;
-        height: 24px;
-        left: 347px;
-        top: 24px;
+   
 }
 .mail{
-    position: absolute;
-        width: 153px;
-        height: 24px;
-        left: 940px;
-        top: 24px;
-    
-        /* Body */
+   
     
         font-family: 'Roboto';
         font-style: normal;
@@ -110,25 +83,12 @@ display: flex;
 }
 
 .phone{
-    position: absolute;
-        width: 151px;
-        height: 24px;
-        left: 1133px;
-        top: 24px;
-    
-        /* Body */
-    
-        font-family: 'Roboto';
+    font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
         font-size: 16px;
         line-height: 24px;
-        /* identical to box height, or 150% */
-    
         letter-spacing: 0.02em;
-    
-        /* SLATE */
-    
         color: #434455;
 }
 
@@ -145,6 +105,7 @@ background: #404BBF;
 box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
 border-radius: 4px;
 }
+
 .button-style{
     font-family: 'Roboto';
         font-style: normal;
@@ -184,151 +145,105 @@ border-radius: 4px;
         align-items: flex-start;
         padding: 0px;
         gap: 24px;
-    
-        position: absolute;
-        width: 586px;
-        height: 48px;
-        left: 427px;
-        top: 168px;
-}
 
+}
 .li-positione-1{
 box-sizing: border-box;
-
-    position: absolute;
-    width: 360px;
-    height: 420px;
-    left: 156px;
-    top: 288px;
-
-    background: #FFFFFF;
+ background: #FFFFFF;
 
     border: 1px solid #E7E9FC;
 }
-   .li-positione-2{
+   .list-positione-2{
     box-sizing: border-box;
     
-        position: absolute;
-        width: 360px;
-        height: 420px;
-        left: 540px;
-        top: 288px;
+       
+    
 
         background: #FFFFFF;
     
         border: 1px solid #E7E9FC;
    }
-   .li-positione-3{
+   .list-positione-3{
     box-sizing: border-box;
     
-        position: absolute;
-        width: 360px;
-        height: 420px;
-        left: 924px;
-        top: 288px;
+   
     
         background: #FFFFFF;
     
         border: 1px solid #E7E9FC;
    }
-   .li-positione-4{
+   .list-positione-4{
 box-sizing: border-box;
-
-    position: absolute;
-    width: 360px;
-    height: 420px;
-    left: 156px;
-    top: 756px;
 
     background: #FFFFFF;
 
     border: 1px solid #E7E9FC;
    }
 
-   .li-positione-5{
+   .list-positione-5{
 box-sizing: border-box;
 
-    position: absolute;
-    width: 360px;
-    height: 420px;
-    left: 540px;
-    top: 756px;
+    
 
     background: #FFFFFF;
 
     border: 1px solid #E7E9FC;
    }
 
-   .li-positione-6{
+   .list-positione-6{
 box-sizing: border-box;
-
-    position: absolute;
-    width: 360px;
-    height: 420px;
-    left: 924px;
-    top: 756px;
-
-    background: #FFFFFF;
-
-    border: 1px solid #E7E9FC;
-   }
-
-   .li-positione-7{
-box-sizing: border-box;
-
-    position: absolute;
-    width: 360px;
-    height: 420px;
-    left: 156px;
-    top: 1224px;
-
-    background: #FFFFFF;
-
-    border: 1px solid #E7E9FC;
-   }
-
-   .li-positione-8{
-box-sizing: border-box;
-
-    position: absolute;
-    width: 360px;
-    height: 420px;
-    left: 540px;
-    top: 1224px;
-
-    background: #FFFFFF;
-
-    border: 1px solid #E7E9FC;
-   }
-
-   .li-positione-9{
-box-sizing: border-box;
-
-    position: absolute;
-    width: 360px;
-    height: 420px;
-    left: 924px;
-    top: 1224px;
-
-    background: #FFFFFF;
-
-    border: 1px solid #E7E9FC;
-   }
 
   
 
+    background: #FFFFFF;
+
+    border: 1px solid #E7E9FC;
+   }
+
+   .list-positione-7{
+box-sizing: border-box;
 
 
-.positione-footer-wb{
-position: absolute;
-    width: 264px;
-    height: 112px;
+    background: #FFFFFF;
+
+    border: 1px solid #E7E9FC;
+   }
+
+   .list-positione-8{
+box-sizing: border-box;
+
+    
+
+    background: #FFFFFF;
+
+    border: 1px solid #E7E9FC;
+   }
+
+   .list-positione-9{
+box-sizing: border-box;
+
+    
+
+    background: #FFFFFF;
+
+    border: 1px solid #E7E9FC;
+   }
+
+
+.web-studio-2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+
+    position: absolute;
+    width: 115px;
+    height: 24px;
     left: 156px;
     top: 1864px;
 }
 .style-web-2{
-    width: 44px;
-        height: 21px;
+    
     
         font-family: 'Raleway';
         font-style: normal;
@@ -349,8 +264,7 @@ position: absolute;
 }
 
 .style-studio-2{
-width: 71px;
-    height: 21px;
+
 
     font-family: 'Raleway';
     font-style: normal;
