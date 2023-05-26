@@ -39,7 +39,7 @@ ol,li{
     
         color: #4D5AE5;
     
-        flex: none;
+        
         
         
 }
@@ -59,7 +59,7 @@ ol,li{
     
     color: #2E2F42;
     
-    flex: none;
+    
    
     
 }
@@ -138,7 +138,7 @@ background: #404BBF;
         
     
         background: #F4F4FD;
-        flex: none;
+        
         
        
 }
@@ -229,31 +229,27 @@ background: #404BBF;
    }
 
 /*-----------------------------footer--------------------------*/
-.web-studio-2{
-    
-    
-    
-   
 
-    
+.positione-footer-wb{
+    background-color:#2e2f42;
 }
 .style-web-2{
     
     
-        font-family: 'Raleway';
+        font-family: 'Raleway', sans-serif;
         font-style: normal;
         font-weight: 800;
         font-size: 18px;
-        line-height: 21px;
+        line-height: 1.17px;
  
        
         
         letter-spacing: 0.03em;
         text-transform: uppercase;
  
-        color: #4D5AE5;
+        color: #4d5ae5;
 
-        flex: none;
+        
        
        
 }
@@ -261,7 +257,7 @@ background: #404BBF;
 .style-studio-2{
 
 
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
@@ -272,10 +268,10 @@ background: #404BBF;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 
-    color: #F4F4FD;
+    color: #f4f4fd;
 
 
-    flex: none;
+    
    
     
 }
