@@ -133,7 +133,7 @@ background: #404BBF;
 }
 .button-style-2{
    
-        flex-direction: row;
+        
         justify-content: center;
         
     
@@ -145,7 +145,6 @@ background: #404BBF;
 .ul-button{
     
         
-        align-items: flex-start;
         
         
 
