@@ -32,8 +32,8 @@ ol,li{
         font-size: 18px;
         line-height: 1.17px;
 
-        display: flex;
-        align-items: center;
+        
+        
         letter-spacing: 0.03em;
         text-transform: uppercase;
     
@@ -52,7 +52,7 @@ ol,li{
     line-height: 1.17px;
     
     
-    align-items: center;
+    
     letter-spacing: 0.03em;
     text-transform: uppercase;
     
@@ -66,8 +66,8 @@ ol,li{
 .web-studio{
     font-family: "Raleway", sans-serif;
     
-    flex-direction: row;
-    align-items: center;
+   
+    
     
 
   
@@ -75,8 +75,8 @@ ol,li{
 
 .ul-S-P-C{
     
-    flex-direction: row;
-    align-items: flex-start;
+   
+    
     
     
    
@@ -108,7 +108,7 @@ ol,li{
 button{
 
 
-align-items: flex-start;
+
 
 
 
@@ -125,7 +125,7 @@ background: #404BBF;
         line-height: 24px;
     
         
-        align-items: center;
+        
         text-align: center;
         letter-spacing: 0.04em;
     
@@ -135,7 +135,7 @@ background: #404BBF;
    
         flex-direction: row;
         justify-content: center;
-        align-items: center;
+        
     
         background: #F4F4FD;
         flex: none;
@@ -233,7 +233,7 @@ background: #404BBF;
 .web-studio-2{
     
     
-    align-items: center;
+    
    
 
     
@@ -248,7 +248,7 @@ background: #404BBF;
         line-height: 21px;
  
        
-        align-items: center;
+        
         letter-spacing: 0.03em;
         text-transform: uppercase;
  
@@ -269,7 +269,7 @@ background: #404BBF;
     line-height: 21px;
 
     
-    align-items: center;
+    
     letter-spacing: 0.03em;
     text-transform: uppercase;
 
