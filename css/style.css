@@ -1,5 +1,6 @@
 :root{
-    
+color: #2E2F42;
+color: #404BBF;
 }
 body{
 font-family: 'Raleway', sans-serif;
@@ -39,26 +40,27 @@ ol,li{
 }
 
 .style-studio{
-        font-family: 'Raleway', sans-serif;
-        font-style: normal;
-        font-weight: 800;
-        font-size: 18px;
-        line-height: 1.17px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17px;
     
-        display: flex;
-        align-items: center;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
     
     
-        color: #2E2F42;
+    color: #2E2F42;
     
-        flex: none;
-        order: 1;
-        flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 .web-studio{
-display: flex;
+    font-family: "Raleway", sans-serif;
+    display: flex;
     flex-direction: row;
     align-items: center;
     padding: 0px;
@@ -68,10 +70,10 @@ display: flex;
 
 .ul-S-P-C{
     display: flex;
-        flex-direction: row;
-        align-items: flex-start;
-        padding: 0px;
-        gap: 40px;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 40px;
    
 }
 .mail{
