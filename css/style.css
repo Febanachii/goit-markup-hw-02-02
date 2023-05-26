@@ -1,6 +1,6 @@
-:root{
-color: #2E2F42;
-color: #404BBF;
+:root {
+ --primary-color: #434455;
+ --secondary-color: #FFFFFF;
 }
 body{
 font-family: 'Raleway', sans-serif;
