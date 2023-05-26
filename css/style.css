@@ -1,7 +1,10 @@
 :root {
+    --accent-color: #2E2F42;
+    --title-color: #4D5AE5;
  --primary-color: #434455;
  --secondary-color: #FFFFFF;
 }
+
 body{
 font-family: 'Raleway', sans-serif;
 font-family: 'Roboto', sans-serif;
