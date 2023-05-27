@@ -23,45 +23,17 @@ ol,li{
     list-style-type: none;
 }
 
-.style-web{
-  
-    
-        font-family: 'Raleway', sans-serif;
-        font-style: normal;
-        font-weight: 800;
-        font-size: 18px;
-        line-height: 1.17px;
-
-        
-        
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-    
-        color: #4D5AE5;
-    
-        
-        
-        
-}
-
-.style-studio{
+.Studio{
     font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17px;
     
-    
-    
     letter-spacing: 0.03em;
-    text-transform: uppercase;
+    text-transform: uppercase; 
     
-    
-    color: #2E2F42;
-    
-    
-   
-    
+    color: #2E2F42;  
 }
 .web-studio{
     font-family: "Raleway", sans-serif;
