@@ -131,12 +131,20 @@ background: #404BBF;
         
        
 }
-.li-positione-1{
+.list-positione-1{
 
 
     background: #FFFFFF;
    
 
+}
+.style-h2-2{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--accent-color);
 }
    .list-positione-2{
     
