@@ -109,17 +109,23 @@ ol,li{
 }
 /*---------------------------main--------------------------------*/
 button{
-
-
-
-
-
-
 background: #404BBF;
+}
+
+.section-position-1{
+    background-color:#2e2f42;
+    line-height: 1.07px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
 
 
 }
 
+.style-h2-1{
+    font-size: 56px;
+
+}
 .button-style{
     font-family: 'Roboto';
         font-style: normal;
