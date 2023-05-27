@@ -22,9 +22,7 @@ ul,
 ol,li{
     list-style-type: none;
 }
-.link{
-    text-decoration: none;
-}
+
 .studio{
     font-family: 'Raleway', sans-serif;
     font-style: normal;
