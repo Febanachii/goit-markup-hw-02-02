@@ -22,7 +22,9 @@ ul,
 ol,li{
     list-style-type: none;
 }
-
+.nav-link link{
+    text-decoration: none
+}
 .Studio{
     font-family: 'Raleway', sans-serif;
     font-style: normal;
@@ -39,7 +41,7 @@ ol,li{
     font-family: "Raleway", sans-serif;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1.17px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color:#4d5ae5
