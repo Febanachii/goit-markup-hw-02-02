@@ -23,7 +23,7 @@ ol,li{
     list-style-type: none;
 }
 
-.studio{
+.studio-header{
     font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 800;
@@ -239,7 +239,7 @@ background: #404BBF;
 
 }
 
-.studio{
+.studio-footer{
     font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 800;
