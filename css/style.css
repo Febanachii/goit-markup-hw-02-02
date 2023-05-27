@@ -144,7 +144,7 @@ background: #404BBF;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: var(--accent-color);
+    color: #2e2f42;
 }
    .list-positione-2{
     
@@ -223,7 +223,7 @@ background: #404BBF;
 .positione-footer-wb{
     background-color:#2e2f42;
 }
-.style-web-2{
+.web-studio{
     
     
         font-family: 'Raleway', sans-serif;
@@ -231,39 +231,26 @@ background: #404BBF;
         font-weight: 800;
         font-size: 18px;
         line-height: 1.17px;
- 
-       
-        
+         
         letter-spacing: 0.03em;
         text-transform: uppercase;
  
         color: #4d5ae5;
 
-        
-       
-       
 }
 
 .studio{
-
-
     font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 21px;
-
-    
-    
+    line-height: 1.17;
+   
     letter-spacing: 0.03em;
     text-transform: uppercase;
 
-    color: #f4f4fd;
-
-
-    
-   
-    
+    color: #f4f4fd;  
+    text-decoration: none;
 }
 
 
