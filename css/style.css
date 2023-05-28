@@ -44,9 +44,7 @@ ol,li{
     text-transform: uppercase;
     color: var(--title-color);
     text-decoration: none;
-    
-
-  
+     
 }
 
 
@@ -224,7 +222,6 @@ background: #404BBF;
     background-color:#2e2f42;
 }
 .web-studio{
-    
     
         font-family: 'Raleway', sans-serif;
         font-style: normal;
