@@ -85,6 +85,12 @@ button{
 background: #404BBF;
 }
 
+.style-h1-1{
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    
+}
 .section-style-1{
     font-size: 56px;
     background-color:#2e2f42;
