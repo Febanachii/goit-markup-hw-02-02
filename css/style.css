@@ -15,10 +15,30 @@ background-color: #FFFFFF
 }
 
 /*----------------------------HEADER-----------------------------*/
-
-header{  text-decoration: none;
+.link{
+    text-decoration: none;
 }
+.studio-header{
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--accent-color);
+    text-decoration: none;
 
+}
+.web-header{
+font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--title-color);
+    text-decoration: none;
+}
 ul,
 ol,li{
     list-style-type: none;
@@ -32,29 +52,8 @@ ol,li{
     text-decoration: none;
 
 }
-.studio-header{
-    font-family: 'Raleway', sans-serif;
-    font-style: normal;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    
-    letter-spacing: 0.03em;
-    text-transform: uppercase; 
-    
-    color: var(--accent-color);  
-}
-.web-studio{
-    font-family: "Raleway", sans-serif;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: var(--title-color);
-    text-decoration: none;
-     
-}
+
+
 
 
 .mail{
