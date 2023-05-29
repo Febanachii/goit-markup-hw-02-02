@@ -173,11 +173,11 @@ text-decoration: none;
 
 }
 
-.mark-guerrero{
+.points-name{
     background-color: #FFFFFF;
 }
 
-.mark-guerrero-title{
+.title-all-points{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -186,11 +186,11 @@ text-decoration: none;
 
 }
 
-.text-product-designer{
+.text-all-points{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    
+
 }
 
 
