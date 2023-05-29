@@ -30,7 +30,7 @@ background-color: #FFFFFF
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--title-color);
+    color: var(--accent-color);
     text-decoration: none;
 
 }
@@ -41,7 +41,7 @@ font-family: "Raleway", sans-serif;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--accent-color);
+    color: var(--title-color);
     text-decoration: none;
 
 }
@@ -86,10 +86,7 @@ color: #404bbf;
         color: var(--primary-color);
 }
 
-.adress-phone link:hover {
-    color: #404bbf;
 
-}
 
 
 .adress-phone link:focus {
@@ -203,7 +200,7 @@ text-decoration: none;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    
+
 }
 
 
