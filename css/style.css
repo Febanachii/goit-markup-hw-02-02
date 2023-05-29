@@ -200,11 +200,27 @@ text-decoration: none;
 
 
 .positione-footer-wb{
-    background-color:var(--accent-color)
+    background-color:var(--accent-color);
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
 }
 
-
-
+.text-studio-footer{
+    color: var(--secondary-color);
+}
+.web-header-footer{
+color: var(--title-color);
+font-family: "Raleway", sans-serif;
+font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
 
 
 
