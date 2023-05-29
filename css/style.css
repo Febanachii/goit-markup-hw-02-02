@@ -117,6 +117,10 @@ background: #404BBF;
 
 
 }
+.our-advant{
+    list-style: none;
+    
+}
 .strategy{
     font-weight: 500;
     font-size: 20px;
@@ -129,7 +133,7 @@ background: #404BBF;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    
+
 }
 .style-button-1{
     background-color: #4D5AE5;
