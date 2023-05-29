@@ -190,8 +190,21 @@ text-decoration: none;
     background-color: #404BBF;
 }
 
+.all-points{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--accent-color);
 
+}
 
+.our-goal{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    
+}
 
 
 /*-----------------------------footer--------------------------*/
