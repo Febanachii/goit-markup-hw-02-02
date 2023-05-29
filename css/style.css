@@ -39,11 +39,8 @@ font-family: "Raleway", sans-serif;
     color: var(--title-color);
     text-decoration: none;
 }
-ul,
-ol,li{
-    list-style-type: none;
-}
-.studio-li{
+
+.link{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -53,41 +50,40 @@ ol,li{
 
 }
 
-
-
-
-.mail{
-   
-    
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-
-        letter-spacing: 0.02em;
-text-decoration: none;
-        color:#2e2f42;
+.studio-li:hover{
+    color: #404bbf;
 }
-.adress-mail:hover{
-    background-color:#404bbf;
-        color: #2e2f42;
-    text-decoration: none;
+
+.studio-li:focus{
+    color: #404bbf;
 }
-.adress-phone:hover{
-    background-color: #404bbf;
-        color: #2e2f42;
-        text-decoration: none;
+
+.address{
+    font-style: normal;
+
 }
-.phone{
-    font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
+
+.list{
+    list-style: none;
 }
+
+.adress-mail link{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--primary-color);
+
+}
+
+.adress-mail link:hover{
+color: #404bbf;
+
+}
+
+.adress-mail link:focus{
+    color: #404bbf;
+}
+
 /*---------------------------main--------------------------------*/
 button{
 background: #404BBF;
