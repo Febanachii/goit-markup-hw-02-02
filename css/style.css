@@ -235,9 +235,7 @@ background: #404BBF;
 
 /*-----------------------------footer--------------------------*/
 
-.positione-footer-wb{
-    background-color:#2e2f42;
-}
+
 .web-studio{
     
         font-family: 'Raleway', sans-serif;
@@ -253,7 +251,7 @@ background: #404BBF;
 
 }
 
-.studio-footer{
+.positione-footer-wb{
     font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 800;
@@ -267,7 +265,7 @@ background: #404BBF;
     text-decoration: none;
 }
 
-.logo {
+.studio-footer{
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
@@ -277,12 +275,8 @@ background: #404BBF;
     color: #4d5ae5;
 }
 
-.link {
-    text-decoration: none;
-}
 
-.logo span {
-    color: #f4f4fd;
-}
+
+
 
    
