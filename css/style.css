@@ -29,7 +29,7 @@ ol,li{
     letter-spacing: 0.02em;
     color: var(--accent-color);
     text-decoration: none;
-    
+
 }
 .studio-header{
     font-family: 'Raleway', sans-serif;
@@ -92,7 +92,15 @@ text-decoration: none;
 button{
 background: #404BBF;
 }
-
+.what-are-we-doing{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--accent-color);
+    
+}
 .style-h1-1{
     font-size: 56px;
     line-height: 1.07;
