@@ -103,16 +103,27 @@ background: #404BBF;
 
 }
 .button-style-all-points{
-    font-family: "Roboto";
+    font-family: "Roboto",sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: var(-title-color);
+    color: var(--title-color);
     background-color: var(--secondary-color);
     cursor: pointer;
-
+    
 }
+
+.button-style-all-points:hover{
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+
+.button-style-all-points:focus{
+    color: #FFFFFF;
+background-color: #404BBF;
+}
+
 
 .what-are-we-doing{
     font-size: 36px;
