@@ -94,7 +94,7 @@ button{
 background: #404BBF;
 }
 
-.ul-button{
+.list{
     list-style: none;
 
 }
@@ -124,12 +124,12 @@ background: #404BBF;
 background-color: #404BBF;
 }
 
-.li-posotione{
+.list{
     list-style: none;
 text-decoration: none;
 }
 
-.banking-app-interface-concept link{
+.link{
     text-decoration: none;
 
 }
@@ -152,39 +152,12 @@ text-decoration: none;
 
 }
 
-.cashless-payment link{
+.link{
     text-decoration: none;
 
 }
 
-.meditation-app{
-    text-decoration: none;
 
-}
-
-.taxi-service{
- text-decoration: none;
-}
-
-.screen-illustrations{
-    text-decoration: none;
-}
-
-.online-courses{
-    text-decoration: none;
-}
-
-.instagram-stories-concept{
-text-decoration: none;
-}
-
-.organic-food{
-    text-decoration: none;
-}
-
-.fresh-coffee{
-text-decoration: none;
-}
 /*-----------------------------------index-html----------------------------*/
 
 .section-style-ESYB{
