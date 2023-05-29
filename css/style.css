@@ -107,7 +107,7 @@ background: #404BBF;
     letter-spacing: 0.02em;
     
 }
-.section-style-1{
+.section-style-ESYB{
     font-size: 56px;
     background-color:#2e2f42;
     line-height: 1.07;
@@ -116,6 +116,20 @@ background: #404BBF;
     color: #ffffff;
 
 
+}
+.strategy{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--accent-color);
+
+}
+.our-goal{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    
 }
 .style-button-1{
     background-color: #4D5AE5;
