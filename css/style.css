@@ -124,6 +124,69 @@ background: #404BBF;
 background-color: #404BBF;
 }
 
+.li-posotione{
+    list-style: none;
+
+}
+
+.banking-app-interface-concept link{
+    text-decoration: none;
+
+}
+
+
+.style-title-points-all{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--accent-color);
+
+}
+
+.p-all-points{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--primary-color);
+
+}
+
+.cashless-payment link{
+    text-decoration: none;
+
+}
+
+.meditation-app{
+    text-decoration: none;
+
+}
+
+.taxi-service{
+ text-decoration: none;
+}
+
+.screen-illustrations{
+    text-decoration: none;
+}
+
+.online-courses{
+    text-decoration: none;
+}
+
+.instagram-stories-concept{
+text-decoration: none;
+}
+
+.organic-food{
+    text-decoration: none;
+}
+
+.fresh-coffee{
+text-decoration: none;
+}
+
+
 
 .what-are-we-doing{
     font-size: 36px;
@@ -179,13 +242,6 @@ background-color: #404BBF;
    
 }
 
-.list-positione{
-
-
-    background: #FFFFFF;
-   
-
-}
 
 /*-----------------------------footer--------------------------*/
 
