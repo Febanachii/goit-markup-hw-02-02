@@ -2,7 +2,8 @@
     --accent-color: #2E2F42;
     --title-color: #4D5AE5;
  --primary-color: #434455;
- --secondary-color: #FFFFFF;
+ --secondary-color: #f4f4fd;
+
 }
 
 body{
@@ -92,6 +93,27 @@ text-decoration: none;
 button{
 background: #404BBF;
 }
+
+.ul-button{
+    list-style: none;
+
+}
+.button-style{
+    list-style: none;
+
+}
+.button-style-all-points{
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: var(-title-color);
+    background-color: var(--secondary-color);
+    cursor: pointer;
+
+}
+
 .what-are-we-doing{
     font-size: 36px;
     line-height: 1.11;
@@ -101,12 +123,7 @@ background: #404BBF;
     color: var(--accent-color);
 
 }
-.effective-Solutions-for-Your-Business{
-    font-size: 56px;
-    line-height: 1.07;
-    letter-spacing: 0.02em;
-    
-}
+
 .section-style-ESYB{
     font-size: 56px;
     background-color:#2e2f42;
@@ -135,28 +152,9 @@ background: #404BBF;
     letter-spacing: 0.02em;
 
 }
-.style-button-1{
-    background-color: #4D5AE5;
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #ffffff;
-    cursor: pointer;
-
-}
-.style-h2-1{
-    font-size: 56px;
-    line-height: 1.07;
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: #ffffff;
 
 
-
-}
-.button-style{
+.style-button{
     font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 500;
@@ -169,103 +167,14 @@ background: #404BBF;
     cursor: pointer;
    
 }
-.button-style-2{
-   
-        
-        justify-content: center;
-        
-    
-        background: #F4F4FD;
-        
-        
-       
-}
-.list-positione-1{
+
+.list-positione{
 
 
     background: #FFFFFF;
    
 
 }
-.style-h2-2{
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-   .list-positione-2{
-    
-        background: #FFFFFF;
-    
-       
-   }
-   .list-positione-3{
-
-    
-   
-    
-        background: #FFFFFF;
-    
-        
-   }
-   .list-positione-4{
-
-
-    background: #FFFFFF;
-
-    
-   }
-
-   .list-positione-5{
-
-
-    
-
-    background: #FFFFFF;
-
-    
-   }
-
-   .list-positione-6{
-
-
-  
-
-    background: #FFFFFF;
-
-    
-   }
-
-   .list-positione-7{
-
-
-
-    background: #FFFFFF;
-
-    
-   }
-
-   .list-positione-8{
-
-
-    
-
-    background: #FFFFFF;
-
-    
-   }
-
-   .list-positione-9{
-
-
-    
-
-    background: #FFFFFF;
-
-    
-   }
 
 /*-----------------------------footer--------------------------*/
 
