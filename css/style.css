@@ -22,18 +22,6 @@ background-color: #FFFFFF
 
 /*----------------------------HEADER-----------------------------*/
 
-
-.text-studio{
-    font-family: "Raleway", sans-serif;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: var(--accent-color);
-    text-decoration: none;
-
-}
 .web-header{
 font-family: "Raleway", sans-serif;
     font-weight: 800;
@@ -47,11 +35,32 @@ font-family: "Raleway", sans-serif;
 }
 
 
-.studio-li:hover{
+.text-studio{
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--accent-color);
+    text-decoration: none;
+
+}
+
+.points-li-header{
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+ letter-spacing: 0.02em;
+ color:var(--accent-color);
+
+}
+
+.points-li-header:hover{
     color: #404bbf;
 }
 
-.studio-li:focus{
+.points-li-header:focus{
     color: #404bbf;
 }
 
@@ -62,7 +71,7 @@ font-family: "Raleway", sans-serif;
 
 
 
-.adress-mail link{
+.adress-points link{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -70,21 +79,16 @@ font-family: "Raleway", sans-serif;
 
 }
 
-.adress-mail link:hover{
+.adress-points:hover{
 color: #404bbf;
 
 }
 
-.adress-mail link:focus{
+.adress-points:focus{
     color: #404bbf;
 }
 
-.adress-phone{
-    font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: var(--primary-color);
-}
+
 
 
 
